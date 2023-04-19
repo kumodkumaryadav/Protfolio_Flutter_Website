@@ -17,33 +17,34 @@ List<ProjectUtils> projectUtils = [
   ProjectUtils(
     banners: 'assets/imgs/02.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Social Media App',
+    titles: 'Awesome News App',
     description:
-        'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/Kumodnb/poetically-.git',
+        'This is a just Fully functional News App by using flutter, source code is also available, check below.',
+    links: 'https://github.com/kuntal-nandi/',
   ),
   ProjectUtils(
     banners: 'assets/imgs/1.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome CRM UI',
+    titles: 'Fully Functionals Health App',
     description:
-        'This is a just CRM UI Design using Figma, file is also available, check below.',
-    links: 'https://github.com/Kumodnb/',
+        'This is a Health App Design using Figma, file is also available, check below.',
+    links:
+        'https://play.google.com/store/apps/details?id=com.zuelligpharma.ezconsult',
   ),
   ProjectUtils(
     banners: 'assets/imgs/03.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Exercise App',
+    titles: 'Awesome Quiz App',
     description:
-        'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/Kumodnb/elderly_exercise_app.git',
+        'This is a just Fully function Quiz App by using flutter, source code is also available, check below.',
+    links: 'https://github.com/kuntal-nandi',
   ),
   ProjectUtils(
     banners: 'assets/imgs/04.png',
     icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Plant App UI',
+    titles: 'Awesome Music App UI',
     description:
-        'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/Kumodnb/flutter_plant_app.git',
+        'This is a Music App UI by using flutter, source code is also available, check below.',
+    links: 'https://github.com/kuntal-nandi',
   ),
 ];

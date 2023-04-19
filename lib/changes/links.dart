@@ -1,30 +1,30 @@
 // CV
 const String resume =
-    'https://drive.google.com/file/d/1bDNNrkQtNVJbXcdwMSx0crQQvAF_nMwV/view?usp=sharing';
+    'https://docs.google.com/document/d/1kiDGUZtYVYrVLI4fB0jPIZCpSTUrz6AX5CFTVayr9RY/edit?usp=sharing';
 
 // Github Link
-const String gitHub = 'https://github.com/kumodkumaryadav';
+const String gitHub = 'https://github.com/kuntal-nandi/';
 // Github Link
-const String facebook = 'https://facebook.com/kumod';
+const String facebook =
+    'https://www.facebook.com/kuntal.nandi.9461?mibextid=LQQJ4d';
 // Github Link
-const String twitter = 'https://twitter.com/kumod_kmd';
+const String twitter = 'https://twitter.com/Kuntalnandi7';
 // Github Link
-const String youtube =
-    'https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg';
+const String youtube = 'https://youtube.com/@kuntalnandi8029';
 // Github Link
-const String linkedin = 'https://linkedin.com/in/kumodyadav';
+const String linkedin = 'https://www.linkedin.com/in/kuntal-nandi-a9b879222';
 // Github Link
 const String buymeacoffee = 'https://www.buymeacoffee.com';
 // Github Link
-const String instagram = 'https://instagram.com/kumod_kmd';
+const String instagram = 'https://instagram.com/kuntalnandi99';
 // socialLinks
 // const List<String> socialLinks = [
-//   "https://facebook.com/Kumodnb",
-//   // "https://instagram.com/Kumod_nish",
+//   "https://facebook.com/kuntal-nandi",
+//   // "https://instagram.com/Kuntal_nish",
 //   "https://www.youtube.com/channel/UCXooUY2oL_eqGhTaZn-ExSg",
-//   "https://twitter.com/Kumod78",
-//   "https://linkedin.com/in/Kumodnb",
-//   "https://www.buymeacoffee.com/Kumodnb", "https://github.com/Kumodnb",
+//   "https://twitter.com/Kuntal78",
+//   "https://linkedin.com/in/kuntal-nandi",
+//   "https://www.buymeacoffee.com/kuntal-nandi", "https://github.com/kuntal-nandi",
 // ];
 //
 const String profileImage =
@@ -35,4 +35,4 @@ const String fiverr = 'https://www.fiverr.com/';
 // Github Link
 const String upwork = 'https://www.upwork.com/freelancers';
 // Github Link
-const String whatsapp = 'https://api.whatsapp.com/send?phone=9135086955';
+const String whatsapp = 'https://api.whatsapp.com/send?phone=918372988806';
