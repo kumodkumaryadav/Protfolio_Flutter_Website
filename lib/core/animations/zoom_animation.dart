@@ -67,7 +67,7 @@ class _ZoomAnimationsState extends State<ZoomAnimations>
         child: CustomOutline(
           strokeWidth: 5,
           radius: size.width * 0.2,
-          padding: const EdgeInsets.all(5),
+          padding: const EdgeInsets.all(10),
           width: size.width * sizeAnimation.value,
           height: size.width * sizeAnimation.value,
           gradient: LinearGradient(
@@ -90,7 +90,7 @@ class _ZoomAnimationsState extends State<ZoomAnimations>
               shape: BoxShape.circle,
               color: Colors.black.withOpacity(0.8),
               image: const DecorationImage(
-                fit: BoxFit.cover,
+                fit: BoxFit.fill,
                 alignment: Alignment.bottomLeft,
                 image: AssetImage('assets/imgs/IMG_0107.png'),
               ),

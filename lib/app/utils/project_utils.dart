@@ -20,7 +20,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome News App',
     description:
         'This is a just Fully functional News App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/kuntal-nandi/',
+    links: 'https://github.com/chandrshekhar/',
   ),
   ProjectUtils(
     banners: 'assets/imgs/1.png',
@@ -37,7 +37,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome Quiz App',
     description:
         'This is a just Fully function Quiz App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/kuntal-nandi',
+    links: 'https://github.com/chandrshekhar',
   ),
   ProjectUtils(
     banners: 'assets/imgs/04.png',
@@ -45,6 +45,6 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome Music App UI',
     description:
         'This is a Music App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/kuntal-nandi',
+    links: 'https://github.com/chandrshekhar',
   ),
 ];

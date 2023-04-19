@@ -17,14 +17,14 @@ List<ServicesUtils> servicesUtils = [
     icon: 'assets/icons/android.svg',
     description:
         "Are you interested in the great Mobile app? Let's make it a reality.",
-    tool: ['Flutter', 'Dart', 'Firebase'],
+    tool: ['Flutter', 'Dart', 'Firebase', 'Kotlin'],
   ),
   ServicesUtils(
     name: 'iOS App Development',
     icon: 'assets/icons/apple.svg',
     description:
         "Are you interested in the great Mobile app? Let's make it a reality.",
-    tool: ['Flutter', 'Dart', 'Firebase'],
+    tool: ['Flutter', 'Dart', 'Firebase' ],
   ),
   ServicesUtils(
     name: 'UI/UX Designing',

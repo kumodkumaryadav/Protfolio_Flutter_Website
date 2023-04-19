@@ -1,22 +1,22 @@
 // CV
 const String resume =
-    'https://docs.google.com/document/d/1kiDGUZtYVYrVLI4fB0jPIZCpSTUrz6AX5CFTVayr9RY/edit?usp=sharing';
+    'https://drive.google.com/drive/folders/1Koiv4eU7MQJ3gQDTwWN_LIyYfu9kPpHC?usp=sharing';
 
 // Github Link
-const String gitHub = 'https://github.com/kuntal-nandi/';
+const String gitHub = 'https://github.com/chandrshekhar';
 // Github Link
 const String facebook =
-    'https://www.facebook.com/kuntal.nandi.9461?mibextid=LQQJ4d';
+    'https://www.facebook.com/chp.pandey';
 // Github Link
-const String twitter = 'https://twitter.com/Kuntalnandi7';
+const String twitter = 'https://twitter.com/';
 // Github Link
-const String youtube = 'https://youtube.com/@kuntalnandi8029';
+const String youtube = 'https://youtube.com/';
 // Github Link
-const String linkedin = 'https://www.linkedin.com/in/kuntal-nandi-a9b879222';
+const String linkedin = 'https://www.linkedin.com/in/chandrshekhar-pandey-ba94b7180/';
 // Github Link
 const String buymeacoffee = 'https://www.buymeacoffee.com';
 // Github Link
-const String instagram = 'https://instagram.com/kuntalnandi99';
+const String instagram = 'https://instagram.com/ch_pandey2025?igshid=ZDdkNTZiNTM=';
 // socialLinks
 // const List<String> socialLinks = [
 //   "https://facebook.com/kuntal-nandi",
@@ -35,4 +35,4 @@ const String fiverr = 'https://www.fiverr.com/';
 // Github Link
 const String upwork = 'https://www.upwork.com/freelancers';
 // Github Link
-const String whatsapp = 'https://api.whatsapp.com/send?phone=918372988806';
+const String whatsapp = 'https://api.whatsapp.com/send?phone=917004499643';
